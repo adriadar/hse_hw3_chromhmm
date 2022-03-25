@@ -22,6 +22,28 @@
 
 [ссылка на cellmarkfiletable.txt](https://github.com/adriadar/hse_hw3_chromhmm/blob/main/cellmarkfiletable.txt)
 
+Сам файл:
+
+Osteobl	H2az	H2azStdAlnRep1.bam	ControlStdAlnRep1.bam
+
+Osteobl	H3k4me1	H3k4me1StdAlnRep1.bam	ControlStdAlnRep1.bam
+
+Osteobl	H3k4me2	H3k4me2StdAlnRep1.bam	ControlStdAlnRep1.bam
+
+Osteobl	H3k9me3	H3k9me3StdAlnRep1.bam	ControlStdAlnRep1.bam
+
+Osteobl	H3k27ac	H3k27acStdAlnRep1.bam	ControlStdAlnRep1.bam
+
+Osteobl	H3k36me3	H3k36me3StdAlnRep1.bam	ControlStdAlnRep1.bam
+
+Osteobl	Ctcf	CtcfStdAlnRep1.bam	ControlStdAlnRep1.bam
+
+Osteobl	H3k27me3	H3k27me3AlnRep1.bam	ControlStdAlnRep1.bam
+
+Osteobl	H4k20me1	H4k20me1AlnRep1.bam	ControlStdAlnRep1.bam
+
+Osteobl       	H3k04me3	H3k04me3AlnRep1.bam	ControlStdAlnRep1.bam
+
 [папка с выдачей ChromHMM](https://github.com/adriadar/hse_hw3_chromhmm/tree/main/ChromHMM_output) (файл Osteobl_10_dense.bed весил больше 25Mb, поэтому пришлось его заархивировать)
 
 ##### Все картинки из выдачи ChromHMM:
