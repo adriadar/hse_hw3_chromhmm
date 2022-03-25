@@ -25,7 +25,9 @@
 [папка с выдачей ChromHMM](https://github.com/adriadar/hse_hw3_chromhmm/tree/main/ChromHMM_output) (файл Osteobl_10_dense.bed весил больше 25Mb, поэтому пришлось его заархивировать)
 
 Все картинки из выдачи ChromHMM:
+
 <img src=https://github.com/adriadar/hse_hw3_chromhmm/blob/main/ChromHMM_output/Osteobl_10_RefSeqTES_neighborhood.png width="400"> <img src=https://github.com/adriadar/hse_hw3_chromhmm/blob/main/ChromHMM_output/Osteobl_10_RefSeqTSS_neighborhood.png width="400">
+
 <img src=https://github.com/adriadar/hse_hw3_chromhmm/blob/main/ChromHMM_output/transitions_10.png width="350"> <img src=https://github.com/adriadar/hse_hw3_chromhmm/blob/main/ChromHMM_output/Osteobl_10_overlap.png width="350"> <img src=https://github.com/adriadar/hse_hw3_chromhmm/blob/main/ChromHMM_output/emissions_10.png width="350">
 
 + ~~Список 10-ти гистоновых меток (и соотв имен файлов) , для которых был сделан анализ~~
