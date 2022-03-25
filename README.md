@@ -48,9 +48,7 @@ Osteobl       	H3k04me3	H3k04me3AlnRep1.bam	ControlStdAlnRep1.bam
 
 ##### Все картинки из выдачи ChromHMM:
 
-<img src=https://github.com/adriadar/hse_hw3_chromhmm/blob/main/ChromHMM_output/Osteobl_15_RefSeqTES_neighborhood.png width="500"> <img src=https://github.com/adriadar/hse_hw3_chromhmm/blob/main/ChromHMM_output/Osteobl_15_RefSeqTSS_neighborhood.png width="500">
-
-<img src=https://github.com/adriadar/hse_hw3_chromhmm/blob/main/ChromHMM_output/transitions_15.png width="270"> <img src=https://github.com/adriadar/hse_hw3_chromhmm/blob/main/ChromHMM_output/Osteobl_15_overlap.png width="270"> <img src=https://github.com/adriadar/hse_hw3_chromhmm/blob/main/ChromHMM_output/emissions_15.png width="270">
+<img src=https://github.com/adriadar/hse_hw3_chromhmm/blob/main/ChromHMM_output/Osteobl_15_overlap.png width="500"> <img src=https://github.com/adriadar/hse_hw3_chromhmm/blob/main/ChromHMM_output/emissions_15.png width="500">
 
 ##### Табличка с номерами эпигенетических типов, их характерные эпигенетические метки и другие свойства, а также присвоенные им названия:
 | Состояние | Название | Метки | Расположение |
