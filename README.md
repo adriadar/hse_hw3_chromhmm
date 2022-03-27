@@ -67,7 +67,7 @@ Osteobl       	H3k04me3	H3k04me3AlnRep1.bam	ControlStdAlnRep1.bam
 |	12 | Polycomb-repressed | H2afz	|
 |	13 | Heterochromatin; low signal | H3k4me2, H3k4me3, H2afz|
 |	14 | Repetitive/Copy Number Variation | H3k27ac, H3k4me2, H3k4me3, H2afz|
-|	15 | Repetitive/Copy Number Variation | Ctcf	 laminB1lads |
+|	15 | Repetitive/Copy Number Variation | Ctcf|
 
 ##### Картинки из UCSC GenomeBrowser:
 <img src=https://github.com/adriadar/hse_hw3_chromhmm/blob/main/img/gen_browser_pic1.png>
