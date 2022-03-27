@@ -51,23 +51,23 @@ Osteobl       	H3k04me3	H3k04me3AlnRep1.bam	ControlStdAlnRep1.bam
 <img src=https://github.com/adriadar/hse_hw3_chromhmm/blob/main/ChromHMM_output/Osteobl_15_overlap.png width="500"> <img src=https://github.com/adriadar/hse_hw3_chromhmm/blob/main/ChromHMM_output/emissions_15.png width="500">
 
 ##### Табличка с номерами эпигенетических типов, их характерные эпигенетические метки и другие свойства, а также присвоенные им названия:
-| Состояние | Название | Метки | Расположение |
-| ------------- |:------------------:|:------------------:| ------------- |
-| 1 | Active Promoter | H3k9me3	| laminB1lads	|
-|	2 | Weak Promoter | -	| Genome, laminB1lads	|
-|	3 | Inactive/poised Promoter | H3k27me3 | laminB1lads	|
-|	4 | Strong enhancer | -	| Genome	|
-|	5 |Strong enhancer | H3k36me3	| RefSeqTES, RefSeqGene	|
-|	6 | Weak/poised enhancer | H3k36me3, H4k20me1	| RefSeqTES, RefSeqGene	|
-| 7 | Weak/poised enhancer | H4k20me1		|  RefSeqGene	|
-|	8 | Insulator | H3k4me2, H3k4me1	| RefSeqTES, RefSeqGene	|
-|	9 | Transcriptional transition | H3k4me2, H3k27ac, H3k4me1	| RefSeqGene	|
-|	10 | Transcriptional elongation | H3k27ac	| RefSeqGene |
-|	11 | Weak transcribed | H3k4me1	| laminB1lads |
-|	12 | Polycomb-repressed | H2afz	| laminB1lads |
-|	13 | Heterochromatin; low signal | H3k4me2, H3k4me3, H2afz| CpGIsland, RefSeqExon, RefSeqTSS, RefSeqTSS2kb |
-|	14 | Repetitive/Copy Number Variation | H3k27ac, H3k4me2, H3k4me3, H2afz| CpGIsland, RefSeqExon, RefSeqTSS, RefSeqTSS2kb |
-|	15 | Repetitive/Copy Number Variation | Ctcf	| laminB1lads |
+| Состояние | Название | Метки |
+| ------------- |:------------------:| ------------- |
+| 1 | Active Promoter | H3k9me3	|
+|	2 | Weak Promoter | -	|
+|	3 | Inactive/poised Promoter | H3k27me3 |
+|	4 | Strong enhancer | -	|
+|	5 |Strong enhancer | H3k36me3	|
+|	6 | Weak/poised enhancer | H3k36me3, H4k20me1	|
+| 7 | Weak/poised enhancer | H4k20me1		|
+|	8 | Insulator | H3k4me2, H3k4me1	|
+|	9 | Transcriptional transition | H3k4me2, H3k27ac, H3k4me1	|
+|	10 | Transcriptional elongation | H3k27ac	|
+|	11 | Weak transcribed | H3k4me1	|
+|	12 | Polycomb-repressed | H2afz	|
+|	13 | Heterochromatin; low signal | H3k4me2, H3k4me3, H2afz|
+|	14 | Repetitive/Copy Number Variation | H3k27ac, H3k4me2, H3k4me3, H2afz|
+|	15 | Repetitive/Copy Number Variation | Ctcf	 laminB1lads |
 
 ##### Картинки из UCSC GenomeBrowser:
 <img src=https://github.com/adriadar/hse_hw3_chromhmm/blob/main/img/gen_browser_pic1.png>
